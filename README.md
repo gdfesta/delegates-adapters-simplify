@@ -1,0 +1,1 @@
+# delegates-adapters-simplify
